@@ -29,7 +29,7 @@ The following describes the expected results of running the tests:
 
 The interactive version of the GHC can be used to test functions within the module, but also to type Braincode directly into the command line and have it interpreted. To do so, within the GHCi enter:  
 `$> runBF . parseTheBF $ "<Brainfuckcode>"`  
-where <Brainfuckcode> is syntatically correct Brainfuck.
+where \<Brainfuckcode> is syntatically correct Brainfuck.
 
 Example:
 
